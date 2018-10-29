@@ -12,6 +12,7 @@ BuildRequires:  pkgconfig(Qt5PrintSupport)
 BuildRequires:  pkgconfig(Qt5WebKitWidgets)
 BuildRequires:  pkgconfig(Qt5Widgets)
 BuildRequires:  pkgconfig(Qt5Concurrent)
+BuildRequires:  pkgconfig(Qt5Svg)
 BuildRequires:  qt5-linguist
 BuildRequires:  pkgconfig(hunspell)
 BuildRequires:  libappstream-glib
